@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Merging
+=======
+hiiiii
+>>>>>>> feature-branch
